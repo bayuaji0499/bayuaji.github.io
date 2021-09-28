@@ -1,6 +1,13 @@
+.navbar {
+  background-image: url(img/navbar.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .jumbotron {
   padding-top: 6rem;
-  background-color: #e2edff;
+  padding-bottom: 2rem;
+  background-color: #d3d3d3;
 }
 
 #project {
